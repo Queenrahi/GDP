@@ -1,4 +1,4 @@
-Title: "African Insights: A Deep Dive into Poverty, Life Expectancy, and GDP"
+Title:A Deep Dive into Poverty, Life Expectancy, and GDP
 
 Description:
 Welcome to my Data Analyst Portfolio, where I invite you to embark on a captivating journey into the heart of Africa's socio-economic landscape. In this project, I have meticulously analyzed and visualized data to shed light on critical factors that shape the well-being of African nations: poverty rates, life expectancy, and Gross Domestic Product (GDP).
